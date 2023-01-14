@@ -6,8 +6,3 @@ Description- A simple add to cart project that show price of different products.
 1. React 
 2. CSS
 
-# Output
-
-![](.\src\assets\output1.PNG)
-![](.\src\assets\Output2.PNG)
-![](.\src\assets\Output3.PNG)
